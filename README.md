@@ -1,6 +1,11 @@
 # Vexcel_MassExtract
+
+
 ArcPro tool for mass imagery extract from Colorado Vexcel services.
+
 Created by Adrien Hoff, Senior GIS Analyst at Jeffcom911
+
+![Untitled design](https://github.com/adrienhoff/Vexcel_MassExtract/assets/167592013/1821ea3e-7fb3-4a06-9ae6-c6117fe04258)
 
 The collaboration between the CDOT Division of Transportation Development and the Colorado Office of Information Technology (OIT) has resulted in the acquisition of statewide high-resolution imagery from Vexcel®, offering a significant enhancement in data resources for the region. This initiative provides local agencies with access to a variety of imagery, including statewide coverage at 15-20 cm (5.9-7.8 in.) resolution collected biannually, annual urban area coverage at 7.5 cm (3 in.) resolution, and specialized coverage like "Gray Sky" imagery captured at 3 in. resolution immediately following major disasters. To ensure accessibility, the data is distributed through various channels, including a high-performance Web Map Tile Streaming (WMTS) service and an online map viewer. Agencies who take part in the initial training are granted access to the Vexcel server via provided logins and access tokens.
 
